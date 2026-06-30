@@ -1,5 +1,7 @@
 # 📊 Retail Sales Performance Analysis
 
+**Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook**
+
 Project 01 of my Data Analytics Portfolio, focused on Exploratory Data Analysis (EDA) and business-oriented insights.
 
 ## 📌 Project Description
@@ -93,7 +95,7 @@ Each section includes:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/PaneloMartin/retail-sales-analysis.git
 ```
 
 Install the required libraries:
