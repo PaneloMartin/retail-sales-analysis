@@ -58,6 +58,23 @@ Each section includes:
 
 ---
 
+## 📊 Sample Visualizations
+
+<p align="center">
+  <img src="images/monthly_sales.png" width="48%">
+  <img src="images/profit_by_category.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="images/sales_vs_profit.png" width="48%">
+  <img src="images/payment_method.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="images/customer_gender.png" width="48%">
+</p>
+---
+
 ## 💡 Key Business Insights
 
 - Sales followed an overall upward trend throughout the year.
